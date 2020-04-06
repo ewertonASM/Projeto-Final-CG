@@ -1,0 +1,50 @@
+# Blender MTL File: 'castlecomp.blend'
+# Material Count: 4
+
+newmtl Castle_Exterior_Tex
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.040000 /home/ewerton/Documents/CG/Castle/Texture/Castle Exterior Texture Bump.jpg
+map_Kd /home/ewerton/Documents/CG/Castle/Texture/Castle Exterior Texture.jpg
+
+newmtl Castle_Interior_Texture
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.040000 /home/ewerton/Documents/CG/Castle/Texture/Castle Interior Texture Bump.jpg
+map_Kd /home/ewerton/Documents/CG/Castle/Texture/Castle Interior Texture.jpg
+
+newmtl Ground_and_Fountain_Tex
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.035000 /home/ewerton/Documents/CG/Castle/Texture/Ground and Fountain Texture Bump.jpg
+map_Kd /home/ewerton/Documents/CG/Castle/Texture/Ground and Fountain Texture.jpg
+
+newmtl Towers_Doors_and_Windows_Tex
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 /home/ewerton/Documents/CG/Castle/Texture/Towers Doors and Windows Texture Bump.jpg
+map_Kd /home/ewerton/Documents/CG/Castle/Texture/Towers Doors and Windows Texture.jpg
